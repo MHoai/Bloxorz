@@ -1,0 +1,14 @@
+input[type="radio"] {
+    display: none;
+  }
+
+  .white_bg {
+    background-color: white;
+  }
+  
+  .star {
+    cursor: pointer;
+    transition: color 200ms;
+    width: 35px;
+    height: 35px;
+  }
