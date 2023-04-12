@@ -1,0 +1,16 @@
+.container-er{
+    margin: 0;
+    background-color: #f0f0f0;
+    overflow: auto;
+    width: 100%;
+    height: 100vh;
+}
+.navbar-er {
+    height: 8.9vh;
+    background-color: #40ef91;
+}
+.content-er {
+    margin: 30px 150px 30px 150px;
+    background-color: #6c56fe;
+    height: 800px;
+}

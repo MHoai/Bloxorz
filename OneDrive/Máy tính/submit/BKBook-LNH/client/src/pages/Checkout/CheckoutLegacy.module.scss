@@ -1,0 +1,36 @@
+// this file is deprecated, don't use this
+
+.container {
+  width: 100%;
+}
+
+.address-input {
+  padding: 5px 8px;
+  border: 1px solid #7B7B7B;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.address {
+  flex-direction: column;
+}
+
+.section-container {
+  flex-direction: column;
+}
+
+.payment-radio-container {
+  display: flex;
+}
+
+.payment-radio-logo {
+  width: 30px;
+}
+
+.confirm-content {
+  display: flex;
+}
+
+.confirm-item-container {
+  display: flex;
+}
